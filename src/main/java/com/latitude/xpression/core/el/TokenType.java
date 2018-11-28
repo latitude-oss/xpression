@@ -1,0 +1,7 @@
+package com.latitude.xpression.core.el;
+
+public enum TokenType {
+
+    VARIABLE, BEAN_PATH_EXPRESSION, FUNCTION, LITERAL, OPERATOR, UNARY_OPERATOR, OPEN_BRAKET, COMMA, CLOSED_BRAKET, HEX_LITERAL, STRINGPARAM
+
+}
