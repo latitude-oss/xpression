@@ -199,3 +199,13 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   
+   AWARDS TO OTHERS
+   
+   * The core evaluation features was inspired by the EvalEx Java library (https://github.com/uklimaschewski/EvalEx), 
+     a work of Udo Klimaschewski (http://about.me/udo.klimaschewski).
+     
+   * The type conversion system API was taken from SpringFramework (https://github.com/spring-projects/spring-framework).
+     
+   
